@@ -1,0 +1,6 @@
+C:\awapa\ClassEntidades\bin\Debug\ClassEntidades.dll
+C:\awapa\ClassEntidades\bin\Debug\ClassEntidades.pdb
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.dll
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.pdb

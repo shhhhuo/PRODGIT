@@ -1,0 +1,9 @@
+C:\awapa\ClassLogicaNeg\bin\Debug\ClassLogicaNeg.dll
+C:\awapa\ClassLogicaNeg\bin\Debug\ClassLogicaNeg.pdb
+C:\awapa\ClassLogicaNeg\bin\Debug\ClassEntidades.dll
+C:\awapa\ClassLogicaNeg\bin\Debug\ClassEntidades.pdb
+C:\awapa\ClassLogicaNeg\obj\Debug\ClassLogicaNeg.csproj.AssemblyReference.cache
+C:\awapa\ClassLogicaNeg\obj\Debug\ClassLogicaNeg.csproj.CoreCompileInputs.cache
+C:\awapa\ClassLogicaNeg\obj\Debug\ClassLogicaNeg.csproj.CopyComplete
+C:\awapa\ClassLogicaNeg\obj\Debug\ClassLogicaNeg.dll
+C:\awapa\ClassLogicaNeg\obj\Debug\ClassLogicaNeg.pdb
